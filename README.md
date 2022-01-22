@@ -64,7 +64,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 | 061 | Poliwhirl| ![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif) | ![Poliwhirl](https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png)|
-|||||
+| 062 | Poliwrath | ![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif) / ![Fighting](https://vignette.wikia.nocookie.net/pokemon/images/6/6b/Type_Fighting.gif) | ![Poliwrath](https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png) |
 |||||
 |||||
 |||||
